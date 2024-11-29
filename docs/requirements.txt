@@ -1,6 +1,6 @@
 Sphinx==4.4.0
 pyperclip==1.8.2
-sphinx_rtd_theme==1.0.0
+sphinx_rtd_theme==3.0.2
 secretum_sphinx_theme==2022.2
 myst_parser
 sphinx-notfound-page
